@@ -42,5 +42,4 @@ global PACK_NAME_WITH_EXAMPLES
 PACK_NAME_WITH_EXAMPLES = 'new_folder'
 
 creating_demo_folder(4, '.txt')
-
 rename_files('new_', 2, '.txt', '.jpg', (0, 3))
